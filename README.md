@@ -160,6 +160,6 @@ This project demonstrates my ability to:
 
 **Author:** Attila Juhász 
 **Role:** Aspiring Data Analyst  
-**LinkedIn:** ([My profile](https://www.linkedin.com/in/attila-juhasz-989613194/)  
-**GitHub:** ([My profile](https://github.com/atijuhasz)
+**LinkedIn:** [My profile](https://www.linkedin.com/in/attila-juhasz-989613194/)  
+**GitHub:** [My profile](https://github.com/atijuhasz)
 
