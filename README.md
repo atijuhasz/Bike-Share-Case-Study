@@ -124,7 +124,8 @@ Leverage strong casual demand for e-bikes to drive revenue and memberships by in
 - Business-focused storytelling  
 
 **Tools:**
-- SQL / R / Excel / Google Sheets  
+- SQL / R / Excel / Google Sheets
+- Tableau / Looker
 - Google Slides / Canva 
 
 ---
