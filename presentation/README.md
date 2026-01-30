@@ -3,7 +3,7 @@
 This folder contains the final slide deck for the **Cyclistic Bike-Share Case Study**.
 
 **File:**  
-`Bike_Share_Case_Study_Presentation.pdf` (24 slides)
+`Bike_Share_Case_Study_Presentation.pdf` (22 slides)
 
 ## Purpose
 A business-focused summary of:
