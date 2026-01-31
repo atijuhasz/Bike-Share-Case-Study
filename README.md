@@ -66,7 +66,7 @@ Before analysis, the dataset was cleaned and prepared:
 Full cleaning steps are documented here:  
 ![documentation/data_cleaning_steps.md](documentation/data_cleaning_steps.md)
 
-Data Dictionary can be found here:
+Data Dictionary can be found here:  
 ![documentation/data_dictionary.md](documentation/data_dictionary.md)
 
 ---
@@ -100,8 +100,8 @@ I compared **casual riders vs annual members** based on:
 **Example visualizations:**
 
 ![Are casual riders taking longer trips than members?](visuals/plot_06.pdf)  
-![Do members and casual riders use bikes differently across the week?](visuals/plot_04.pdf)
-![Do casual and member riders prefer different bike types?](visuals/plot_03.pdf)
+![Do members and casual riders use bikes differently across the week?](visuals/plot_04.pdf)  
+![Do casual and member riders prefer different bike types?](visuals/plot_03.pdf)  
 
 ---
 
