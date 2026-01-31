@@ -143,8 +143,8 @@ presentation/ → Final slide deck (PDF)
 
 ## Presentation
 
-The full 24-slide case study presentation is available here:  
-`presentation/cyclistic_case_study_slides.pdf`
+The full 22-slide case study presentation is available here:  
+`presentation/Bike_Share_Case_Study_Presentation.pdf`
 
 ---
 
